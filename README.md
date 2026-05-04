@@ -2,7 +2,7 @@
 
 
 
-This repository contains source definitions for the **Aidoku iOS app**.
+This repository contains source definitions I made for the **Aidoku iOS app**.
 
 
 
