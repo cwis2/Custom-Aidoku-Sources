@@ -1,0 +1,12 @@
+{
+	"info": {
+		"id": "en.rocaricomics",
+		"name": "rocaricomics",
+		"version": 1,
+		"url": "https://rokaricomics.com/",
+		"contentRating": 0,
+		"languages": [
+			"en"
+		]
+	}
+}

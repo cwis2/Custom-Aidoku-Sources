@@ -1,0 +1,17 @@
+[
+	{
+		"type": "group",
+		"title": "Siren Scans",
+		"items": [
+			{
+				"type": "select",
+				"key": "imageAttr",
+				"title": "Preferred image attribute",
+				"subtitle": "If pages fail to load, try switching attribute",
+				"values": ["auto", "src", "data-src", "data-original"],
+				"titles": ["Auto (recommended)", "src", "data-src", "data-original"],
+				"default": "auto"
+			}
+		]
+	}
+]

@@ -1,0 +1,1 @@
+C:\Users\cvill\Desktop\aidoku-community-sources\src\rust\sirenscans\target\wasm32-unknown-unknown\release\siren_scans.wasm: C:\Users\cvill\Desktop\aidoku-community-sources\src\rust\sirenscans\src\helper.rs C:\Users\cvill\Desktop\aidoku-community-sources\src\rust\sirenscans\src\lib.rs C:\Users\cvill\Desktop\aidoku-community-sources\src\rust\sirenscans\src\parser.rs

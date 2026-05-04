@@ -1,0 +1,1 @@
+C:\Users\cvill\Desktop\aidoku-community-sources\src\rust\rokaricomics\target\wasm32-unknown-unknown\release\rocaricomics.wasm: C:\Users\cvill\Desktop\aidoku-community-sources\src\rust\rokaricomics\src\helper.rs C:\Users\cvill\Desktop\aidoku-community-sources\src\rust\rokaricomics\src\lib.rs C:\Users\cvill\Desktop\aidoku-community-sources\src\rust\rokaricomics\src\parser.rs
