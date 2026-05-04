@@ -1,12 +1,12 @@
-\# Aidoku Source Repository
+# Aidoku Source Repository
 
 
 
-This repository contains source definitions for the \*\*Aidoku iOS app\*\*.
+This repository contains source definitions for the **Aidoku iOS app**.
 
 
 
-\## Adding Sources
+## Adding Sources
 
 
 
@@ -14,55 +14,55 @@ To use these sources in Aidoku, you must first package them into `.aix` files.
 
 
 
-\### Steps:
+### Steps:
 
 
 
-1\. Install and set up the Aidoku CLI tool:
+1. Install and set up the Aidoku CLI tool:
 
-&#x20;  https://github.com/Aidoku/aidoku-cli
-
-
-
-2\. Package the source:
+   https://github.com/Aidoku/aidoku-cli
 
 
 
-&#x20;  ```bash
-
-&#x20;  aidoku build
-
-&#x20;  ```
+2. Package the source:
 
 
 
-3\. Locate the generated `.aix` file.
+  ```sh
+
+  aidoku build
+
+  ```
 
 
 
-4\. Open the \*\*Aidoku app\*\* on your iOS device.
+3. Locate the generated `.aix` file.
 
 
 
-5\. Go to the \*\*Browse\*\* tab.
+4. Open the **Aidoku app** on your iOS device.
 
 
 
-6\. Tap the \*\*"+" (Add Source)\*\* button.
+5. Go to the **Browse** tab.
 
 
 
-7\. Import the `.aix` file.
+6. Tap the **"+" (Add Source)** button.
 
 
 
-\## Repository Contents
+7. Import the `.aix` file.
 
 
 
-\* Source code for Aidoku-compatible extensions
+## Repository Contents
 
-\* Configuration and metadata required for packaging
+
+
+* Source code for Aidoku-compatible extensions
+
+* Configuration and metadata required for packaging
 
 
 
